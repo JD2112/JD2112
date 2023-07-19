@@ -22,14 +22,21 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```all_time
-From: 11 July 2023 - To: 18 July 2023
+```txt
+From: 28 February 2022 - To: 18 July 2023
 
-Total Time: 11 hrs 59 mins
+Total Time: 739 hrs 37 mins
 
-Docker        7 hrs 1 min     >>>>>>>>>>>>>------------   50.71 %
-R             3 hrs 28 mins   >>>>>>-------------------   25.11 %
-Other         1 hr 51 mins    >>>----------------------   13.44 %
+R                          338 hrs 31 mins ███████████▒░░░░░░░░░░░░░   45.77 %
+Other                      162 hrs 22 mins █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+Docker                     46 hrs 58 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Markdown                   40 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Text                       39 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+YAML                       27 hrs 1 min    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Python                     18 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Bash                       11 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+CSV                        7 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
