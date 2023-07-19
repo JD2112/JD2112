@@ -21,4 +21,15 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
 
 <!--START_SECTION:waka-->
+
+```all_time
+From: 11 July 2023 - To: 18 July 2023
+
+Total Time: 11 hrs 59 mins
+
+Docker        7 hrs 1 min     >>>>>>>>>>>>>------------   50.71 %
+R             3 hrs 28 mins   >>>>>>-------------------   25.11 %
+Other         1 hr 51 mins    >>>----------------------   13.44 %
+```
+
 <!--END_SECTION:waka-->
