@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
 [![wakatime](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml)
+[![wakatime](https://wakatime.com/badge/user/fe95275f-909a-4147-a45d-624981173898.svg)](https://wakatime.com/@fe95275f-909a-4147-a45d-624981173898)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JD2112)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **JD2112/JD2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +20,7 @@ Here are some ideas to get you started:
 -->
 ![JD2112's Stats](https://github-readme-stats.vercel.app/api?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JD2112's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JD2112&theme=vue-dark&hide_border=true)
+
 
 
 
