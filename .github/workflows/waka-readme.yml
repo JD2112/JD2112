@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@v0.2.1
         with:
-          GH_TOKEN: ${{ secrets.WAKATIME_GA }}
+          #GH_TOKEN: ${{ secrets.WAKATIME_GA }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ->
