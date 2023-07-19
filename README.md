@@ -52,3 +52,12 @@ TeX                        26 mins         ░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+    <details>
+        <summary><b>GitHub Metrics👇🏻</b></summary>
+    <br>
+        
+[Get Details](https://metrics.lecoq.io/insights/JD2112)
+    </details>
+</div>
