@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
