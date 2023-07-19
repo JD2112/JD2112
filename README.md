@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
-
+[![wakatime](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml)
 <!--
 **JD2112/JD2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
