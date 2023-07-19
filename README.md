@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![JD2112's Stats](https://github-readme-stats.vercel.app/api?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JD2112's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JD2112&theme=vue-dark&hide_border=true)
+![JD2112's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
