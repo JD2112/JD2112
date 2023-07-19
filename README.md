@@ -64,3 +64,6 @@ TeX                        26 mins         ░░░░░░░░░░░░�
 [Get Details](https://metrics.lecoq.io/insights/JD2112)
     </details>
 </div>
+
+[I am currently reading:](https://www.goodreads.com/user/show/21242415-jyotirmoy-das)
+
