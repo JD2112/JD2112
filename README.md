@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
 
-<!--START_SECTION:jd2112-->
+<!--START_SECTION:waka-->
 
-<!--END_SECTION:jd2112-->
+<!--END_SECTION:waka-->
