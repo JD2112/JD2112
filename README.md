@@ -65,6 +65,6 @@ TeX                        26 mins         ░░░░░░░░░░░░�
     </details>
 </div>
 
-<a href="https://www.goodreads.com/user/show/21242415-jyotirmoy-das" target="_blank">I am currently reading</a>
+<a target="_blank" href="https://www.goodreads.com/user/show/21242415-jyotirmoy-das">I am currently reading</a>
 
 
