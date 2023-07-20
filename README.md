@@ -3,6 +3,9 @@
 [![wakatime](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml)
 [![wakatime](https://wakatime.com/badge/user/fe95275f-909a-4147-a45d-624981173898.svg)](https://wakatime.com/@fe95275f-909a-4147-a45d-624981173898)
 [![website](https://img.shields.io/badge/website-informational)](http://jyotirmoydas.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jyotirmoy21?style=social)](https://twitter.com/jyotirmoy21)
+[![Linkedin Badge](https://img.shields.io/badge/-jyotirmoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasjyotirmoy/)](https://www.linkedin.com/in/dasjyotirmoy/)
+[![Google Scholar Badge](https://img.shields.io/badge/-jyotirmoy-yellow?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)](https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)
 [![trophy](https://github-profile-trophy.vercel.app/?username=JD2112)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
