@@ -2,7 +2,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
 [![wakatime](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml)
 [![wakatime](https://wakatime.com/badge/user/fe95275f-909a-4147-a45d-624981173898.svg)](https://wakatime.com/@fe95275f-909a-4147-a45d-624981173898)
+[![website](https://img.shields.io/badge/website-informational)](http://jyotirmoydas.netlify.app)
 [![trophy](https://github-profile-trophy.vercel.app/?username=JD2112)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **JD2112/JD2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
