@@ -2,10 +2,15 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
 [![wakatime](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml)
 [![wakatime](https://wakatime.com/badge/user/fe95275f-909a-4147-a45d-624981173898.svg)](https://wakatime.com/@fe95275f-909a-4147-a45d-624981173898)
-[![website](https://img.shields.io/badge/website-informational)](http://jyotirmoydas.netlify.app)
+[![Website Badge](https://img.shields.io/badge/website-informational?style=flat-square)](http://jyotirmoydas.netlify.app)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/jyotirmoy21?style=social)](https://twitter.com/jyotirmoy21)
-[![Linkedin Badge](https://img.shields.io/badge/-jyotirmoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasjyotirmoy/)](https://www.linkedin.com/in/dasjyotirmoy/)
-[![Google Scholar Badge](https://img.shields.io/badge/-jyotirmoy-yellow?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)](https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)
+[![Linkedin Badge](https://img.shields.io/badge/-jyotirmoy-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasjyotirmoy/)](https://www.linkedin.com/in/dasjyotirmoy/)
+[![Google Scholar Badge](https://img.shields.io/badge/-jyotirmoy-blue?style=plastic&logo=GoogleScholar&logoColor=white&link=https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)](https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/-jyotirmoy-cyan?style=plastic&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jyotirmoy-Das-3)](https://www.researchgate.net/profile/Jyotirmoy-Das-3)
+[![ORCiD Badge](https://img.shields.io/badge/-jyotirmoy-green?style=plastic&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-5649-4658)](https://orcid.org/0000-0002-5649-4658)
+[![Loop Badge](https://img.shields.io/badge/-jyotirmoy-orange?style=plastic&logo=Loop&logoColor=white&link=https://loop.frontiersin.org/people/1519976/overview)](https://loop.frontiersin.org/people/1519976/overview)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=JD2112)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
