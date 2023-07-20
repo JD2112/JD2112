@@ -65,5 +65,6 @@ TeX                        26 mins         ░░░░░░░░░░░░�
     </details>
 </div>
 
-[I am currently reading:](https://www.goodreads.com/user/show/21242415-jyotirmoy-das)
+<a href="https://www.goodreads.com/user/show/21242415-jyotirmoy-das" target="_blank" rel="noopener noreferrer">I am currently reading</a>
+
 
