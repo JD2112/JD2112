@@ -38,22 +38,22 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 22 July 2023
+From: 28 February 2022 - To: 23 July 2023
 
-Total Time: 746 hrs 59 mins
+Total Time: 749 hrs 58 mins
 
-R                          343 hrs 7 mins  ███████████▒░░░░░░░░░░░░░   45.94 %
-Other                      164 hrs 1 min   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-Docker                     47 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Markdown                   40 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Text                       39 hrs 26 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-YAML                       27 hrs 28 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Python                     18 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+R                          343 hrs 10 mins ███████████▒░░░░░░░░░░░░░   45.76 %
+Other                      164 hrs 22 mins █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+Docker                     47 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Markdown                   40 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Text                       39 hrs 26 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+YAML                       29 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Python                     18 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 Bash                       11 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 CSV                        7 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-HTML                       5 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-CSS                        3 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+HTML                       5 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+CSS                        3 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 Perl                       2 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 reStructuredText           1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Singularity                1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
