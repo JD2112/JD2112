@@ -38,16 +38,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 30 July 2023
+From: 28 February 2022 - To: 31 July 2023
 
-Total Time: 756 hrs 52 mins
+Total Time: 757 hrs 48 mins
 
-R                          343 hrs 10 mins ███████████▒░░░░░░░░░░░░░   45.34 %
-Other                      168 hrs 24 mins █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-Docker                     47 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Markdown                   40 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+R                          343 hrs 10 mins ███████████▒░░░░░░░░░░░░░   45.29 %
+Other                      168 hrs 55 mins █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
+Docker                     47 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Markdown                   40 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 Text                       39 hrs 26 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-YAML                       32 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+YAML                       32 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 Python                     18 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 Bash                       11 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
