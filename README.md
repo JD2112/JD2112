@@ -38,22 +38,22 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 09 August 2023
+From: 28 February 2022 - To: 10 August 2023
 
-Total Time: 784 hrs 18 mins
+Total Time: 789 hrs 1 min
 
-R                          363 hrs 8 mins  ███████████▓░░░░░░░░░░░░░   46.30 %
-Other                      172 hrs 14 mins █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-Docker                     47 hrs 26 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Markdown                   43 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Text                       39 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-YAML                       32 hrs 42 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Python                     19 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+R                          367 hrs 23 mins ███████████▓░░░░░░░░░░░░░   46.56 %
+Other                      172 hrs 36 mins █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+Docker                     47 hrs 26 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Markdown                   43 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Text                       39 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+YAML                       32 hrs 42 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Python                     19 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 Bash                       11 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 CSV                        7 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 HTML                       5 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-CSS                        3 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+CSS                        3 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 Perl                       2 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 reStructuredText           1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Singularity                1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
