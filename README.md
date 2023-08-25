@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 22 August 2023
+From: 28 February 2022 - To: 23 August 2023
 
 Total Time: 809 hrs 31 mins
 
