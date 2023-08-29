@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 26 August 2023
+From: 28 February 2022 - To: 27 August 2023
 
-Total Time: 810 hrs
+Total Time: 810 hrs 24 mins
 
-R                          383 hrs         ███████████▓░░░░░░░░░░░░░   47.28 %
-Other                      175 hrs 9 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Docker                     47 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+R                          383 hrs 17 mins ███████████▓░░░░░░░░░░░░░   47.30 %
+Other                      175 hrs 13 mins █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
+Docker                     48 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 Markdown                   44 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 Text                       39 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 YAML                       32 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
