@@ -38,30 +38,30 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 29 August 2023
+From: 28 February 2022 - To: 30 August 2023
 
-Total Time: 810 hrs 24 mins
+Total Time: 813 hrs 13 mins
 
-R                          383 hrs 17 mins ███████████▓░░░░░░░░░░░░░   47.30 %
-Other                      175 hrs 13 mins █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Docker                     48 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Markdown                   44 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Text                       39 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-YAML                       32 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Python                     19 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Bash                       11 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-CSV                        7 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-HTML                       5 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+R                          383 hrs 52 mins ███████████▓░░░░░░░░░░░░░   47.20 %
+Other                      175 hrs 17 mins █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+Docker                     48 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Markdown                   44 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Text                       39 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+YAML                       32 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+RMarkdown                  28 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Python                     19 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Bash                       11 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+CSV                        7 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+HTML                       5 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 CSS                        3 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 Perl                       2 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+ActionScript               1 hr 33 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 reStructuredText           1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+BibTeX                     1 hr 26 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Singularity                1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-BibTeX                     1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Git Config                 1 hr 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 JSON                       52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 S                          33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Snakemake                  30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
