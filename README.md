@@ -38,25 +38,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 28 September 2023
+From: 28 February 2022 - To: 29 September 2023
 
-Total Time: 862 hrs 6 mins
+Total Time: 864 hrs 52 mins
 
-R                          399 hrs 28 mins ███████████▓░░░░░░░░░░░░░   46.34 %
-Other                      180 hrs 4 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
-Docker                     48 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Markdown                   45 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Text                       39 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-YAML                       35 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-RMarkdown                  28 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Python                     19 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Bash                       11 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JavaScript                 9 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+R                          399 hrs 28 mins ███████████▓░░░░░░░░░░░░░   46.19 %
+Other                      180 hrs 16 mins █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Docker                     48 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Markdown                   45 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Text                       39 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+YAML                       35 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+RMarkdown                  28 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Python                     19 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JavaScript                 11 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Bash                       11 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 CSV                        7 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 HTML                       6 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-CSS                        5 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+CSS                        5 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ActionScript               4 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-TypeScript                 2 hrs 32 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript                 2 hrs 32 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Assembly                   2 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Perl                       2 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 BibTeX                     1 hr 34 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
