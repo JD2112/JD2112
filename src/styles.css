@@ -1,0 +1,274 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 0;
+    font-size: 36px;
+    font-family: Garamond;
+  }
+  
+  h2 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  
+  h3 {
+    margin-top: 0;
+    font-size: 18px;
+    font-family: Garamond;
+    color: #ffffff;
+  }
+  
+  h4 {
+    margin-top: 0;
+    font-size: 16px;
+  }
+  
+  h5 {
+    margin-top: 0;
+    margin: 0;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 0;
+    gap: 0;
+    display: grid;
+    font-family: 'garamond';
+    color: #ffffff;
+  }
+  
+  h6 {
+    margin-top: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: garamond;
+    line-height: 15px;
+    text-align: justify;
+    color: #000000;
+  }
+  
+
+  code {
+    font-size: 1.2em;
+  }
+  
+  ul { list-style-type: none; padding: 0px 10px; }
+
+  li { 
+    margin-bottom: 10px; 
+    display: grid; 
+    grid-template-columns: auto 1fr;
+    gap: 20px;
+    align-items: center;
+  }
+  /* img { 
+    width: 100%; 
+    height: auto; 
+    object-fit: cover;
+  } */
+
+  .img-frame {
+    width: 100%;
+    height: auto; 
+    top: 0;
+    padding: 15px;
+    vertical-align: middle;
+    overflow: hidden;
+    left: 0;
+    /* display: block; */
+    -webkit-mask-image: linear-gradient(180deg, #000 0, rgba(0, 0, 0, .9) 80%, transparent);
+    mask-image:linear-gradient(180deg, #000 0, rgba(0, 0, 0, .9) 80%, transparent)
+}
+
+  
+  @media screen and (min-width: 600px) and(orientation: landscape) {
+    .img-frame {
+        bottom: 0;
+        height: 100vh;
+        overflow: hidden;
+        left: 0;
+        display: block;
+        width: auto;
+        -webkit-mask-image: linear-gradient(90deg, #000 0, rgba(0, 0, 0, .9) 60%, transparent);
+        mask-image:linear-gradient(90deg, #000 0, rgba(0, 0, 0, .9) 60%, transparent)
+    }
+
+    .second {
+        padding: 60px;
+        position: absolute;
+        transform: translateY(-50%);
+        right: 0;
+        top: 50vh;
+        max-width: 45vw
+    }
+}
+
+  a {
+    color: #ffffff;
+    padding: 0px 10px;
+  }
+/* p {
+  white-space: pre-line;
+  line-height: 20px;
+  position: relative;
+  /* top: -15px; 
+} */
+#navbar ul li:nth-child(2) {
+  float: right;
+}
+
+p1 {
+  white-space: pre-line;
+  line-height: 50px;
+  position: relative;
+  top: -15px;
+}
+
+.footer {
+  background-color: green;
+  border-top: 2px solid red;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  color: white;
+  font-size: 25px;
+}
+
+.react-pdf__Document {
+  display: inline-block;
+}
+
+.react-pdf__Page {
+  width: 550px;
+  height: 733px;
+}
+
+.album-web {
+  background: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.page {
+  box-shadow: 0 1.5em 3em -1em rgb(70, 69, 69);
+  height: 733px;
+  width: 550px;
+}
+
+.cover {
+  background-color: rgb(8, 54, 75);
+  box-shadow: 0 1.5em 3em -1em rgb(4, 26, 73);
+}
+
+.btn,
+.form-control {
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  color: inherit;
+  appearance: none;
+  font-size: 1em;
+  line-height: 1.2;
+  padding: 0.5em var(--padding-x);
+  border-width: 2px;
+  border-style: solid;
+}
+
+.btn {
+  background-color: rgb(0, 0, 0);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  --padding-x: 1.2em;
+  border-color: transparent;
+}
+
+.form-control {
+  --padding-x: 0.5em;
+}
+
+input {
+  text-align: center;
+}
+
+.formContainer {
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type="text"],
+input[type="password"] {
+  height: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+input[type="submit"] {
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: #01d28e;
+  border: 1px solid #01d28e;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+input[type="submit"]:hover {
+  background: #6cf0c2;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.login-form {
+  background-color: #414040;
+  padding: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.list-container {
+  display: flex;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+.title {
+  font-size: 25px;
+  margin-bottom: 20px;
+  background-color: #424242;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px;
+}
+
+.home {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #000000;
+}
+

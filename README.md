@@ -1,80 +1,70 @@
-### Hi there 👋
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JD2112.JD2112)
-[![wakatime](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml)
-[![wakatime](https://wakatime.com/badge/user/fe95275f-909a-4147-a45d-624981173898.svg)](https://wakatime.com/@fe95275f-909a-4147-a45d-624981173898)
-[![Website Badge](https://img.shields.io/badge/website-informational?style=flat-square)](http://jyotirmoydas.netlify.app)
+# Getting Started with Create React App
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jyotirmoy21?style=social)](https://twitter.com/jyotirmoy21)
-[![Linkedin Badge](https://img.shields.io/badge/-jyotirmoy-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasjyotirmoy/)](https://www.linkedin.com/in/dasjyotirmoy/)
-[![Google Scholar Badge](https://img.shields.io/badge/-jyotirmoy-blue?style=plastic&logo=GoogleScholar&logoColor=white&link=https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)](https://scholar.google.se/citations?user=IMBYOv8AAAAJ&hl=en)
-[![ResearchGate Badge](https://img.shields.io/badge/-jyotirmoy-cyan?style=plastic&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jyotirmoy-Das-3)](https://www.researchgate.net/profile/Jyotirmoy-Das-3)
-[![ORCiD Badge](https://img.shields.io/badge/-jyotirmoy-green?style=plastic&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-5649-4658)](https://orcid.org/0000-0002-5649-4658)
-[![Loop Badge](https://img.shields.io/badge/-jyotirmoy-orange?style=plastic&logo=Loop&logoColor=white&link=https://loop.frontiersin.org/people/1519976/overview)](https://loop.frontiersin.org/people/1519976/overview)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JD2112)](https://github.com/ryo-ma/github-profile-trophy)
+## Available Scripts
 
-<!--
-**JD2112/JD2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the project directory, you can run:
 
-Here are some ideas to get you started:
+### `npm start`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![JD2112's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
--->
-![JD2112's Stats](https://github-readme-stats.vercel.app/api?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![JD2112's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JD2112&theme=vue-dark&hide_border=true)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-<!--START_SECTION:waka-->
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```txt
-From: 28 February 2022 - To: 27 October 2023
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Total Time: 915 hrs 3 mins
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-R                          404 hrs 48 mins ███████████░░░░░░░░░░░░░░   44.24 %
-Other                      182 hrs 42 mins █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-Docker                     49 hrs 48 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Markdown                   46 hrs 1 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Text                       41 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-YAML                       37 hrs 57 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-RMarkdown                  28 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JavaScript                 20 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Python                     19 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Bash                       11 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-CSV                        7 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-CSS                        7 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-HTML                       7 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Assembly                   5 hrs 27 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-GDScript3                  4 hrs 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-ActionScript               4 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Objective-C                4 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-TeX                        3 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-BibTeX                     3 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JSON                       2 hrs 58 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
+### `npm run eject`
 
-<!--END_SECTION:waka-->
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-        
-[Get Details](https://metrics.lecoq.io/insights/JD2112)
-    </details>
-</div>
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<a target="_blank" href="https://www.goodreads.com/user/show/21242415-jyotirmoy-das">I am currently reading</a>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
