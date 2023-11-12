@@ -38,28 +38,28 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 09 November 2023
+From: 28 February 2022 - To: 10 November 2023
 
-Total Time: 936 hrs 30 mins
+Total Time: 944 hrs 11 mins
 
-R                          416 hrs 5 mins  ███████████░░░░░░░░░░░░░░   44.43 %
-Other                      185 hrs 16 mins █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-Docker                     50 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Markdown                   46 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Text                       41 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-YAML                       40 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-RMarkdown                  28 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-JavaScript                 21 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Python                     19 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+R                          422 hrs 19 mins ███████████▒░░░░░░░░░░░░░   44.73 %
+Other                      185 hrs 52 mins █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+Docker                     50 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Markdown                   46 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Text                       41 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+YAML                       40 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+RMarkdown                  28 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JavaScript                 21 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Python                     19 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 Bash                       11 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-HTML                       8 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-CSS                        7 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-CSV                        7 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+CSS                        8 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+HTML                       8 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+CSV                        7 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Assembly                   5 hrs 27 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-GDScript3                  4 hrs 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+GDScript3                  4 hrs 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ActionScript               4 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 Objective-C                4 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON                       3 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON                       3 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 TeX                        3 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 BibTeX                     3 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
