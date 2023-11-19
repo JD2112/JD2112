@@ -38,9 +38,9 @@ const Footer = () => {
           <a href="https://scholar.google.co.in/citations?user=IMBYOv8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
             <SiGooglescholar size={30} color='#ffffff'/>
           </a>
-          /*<a href="http://jyotirmoycv.netlify.app"target="_blank" rel="noopener noreferrer">*/
-           /* <SiGooglesheets size={30} color='#ffffff'/>*/
-         /* </a>*/
+          // <a href="http://jyotirmoycv.netlify.app"target="_blank" rel="noopener noreferrer">
+           // <SiGooglesheets size={30} color='#ffffff'/>
+         // </a>
           </div>
 
           <div className='display-linebreak'>
