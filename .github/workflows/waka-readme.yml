@@ -25,7 +25,7 @@ jobs:
           STOP_AT_OTHER: false
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
+          REPOSITORY: JD2112/JD2112 # optional
           ### content
           SECTION_NAME: waka # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
