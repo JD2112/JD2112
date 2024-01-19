@@ -38,22 +38,22 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 16 January 2024
+From: 28 February 2022 - To: 17 January 2024
 
-Total Time: 1,113 hrs 20 mins
+Total Time: 1,117 hrs 21 mins
 
-R                          512 hrs 44 mins ███████████▓░░░░░░░░░░░░░   46.05 %
-Other                      232 hrs 8 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-Docker                     60 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Markdown                   52 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-YAML                       45 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Text                       43 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-RMarkdown                  32 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-JavaScript                 21 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Python                     19 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash                       13 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+R                          512 hrs 44 mins ███████████▒░░░░░░░░░░░░░   45.89 %
+Other                      236 hrs 5 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Docker                     60 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Markdown                   52 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+YAML                       45 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Text                       43 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+RMarkdown                  32 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JavaScript                 21 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Python                     19 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Bash                       13 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 CSS                        9 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-HTML                       8 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+HTML                       8 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 CSV                        8 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 Assembly                   5 hrs 27 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 GDScript3                  4 hrs 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
