@@ -38,21 +38,21 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 21 March 2024
+From: 28 February 2022 - To: 22 March 2024
 
-Total Time: 1,275 hrs 10 mins
+Total Time: 1,277 hrs 44 mins
 
-R                          565 hrs 38 mins ███████████░░░░░░░░░░░░░░   44.36 %
-Other                      326 hrs 12 mins ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-Docker                     62 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Markdown                   53 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-YAML                       49 hrs 23 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Text                       43 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-RMarkdown                  35 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-JavaScript                 21 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+R                          565 hrs 50 mins ███████████░░░░░░░░░░░░░░   44.28 %
+Other                      328 hrs 33 mins ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+Docker                     62 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Markdown                   53 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+YAML                       49 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Text                       43 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+RMarkdown                  35 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JavaScript                 21 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 Python                     19 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 Bash                       15 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-CSS                        10 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+CSS                        10 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 CSV                        9 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 HTML                       8 hrs 20 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 Assembly                   5 hrs 27 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
