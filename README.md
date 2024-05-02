@@ -3,6 +3,7 @@
 [![wakatime](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/JD2112/JD2112/actions/workflows/waka-readme.yml)
 [![wakatime](https://wakatime.com/badge/user/fe95275f-909a-4147-a45d-624981173898.svg)](https://wakatime.com/@fe95275f-909a-4147-a45d-624981173898)
 [![Website Badge](https://img.shields.io/badge/website-informational?style=flat-square)](http://jyotirmoydas.netlify.app)
+[![DOI](https://zenodo.org/badge/668165851.svg)](https://zenodo.org/doi/10.5281/zenodo.11104069)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jyotirmoy21?style=social)](https://twitter.com/jyotirmoy21)
 [![Linkedin Badge](https://img.shields.io/badge/-jyotirmoy-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasjyotirmoy/)](https://www.linkedin.com/in/dasjyotirmoy/)
