@@ -39,22 +39,22 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 17 May 2024
+From: 28 February 2022 - To: 18 May 2024
 
-Total Time: 1,434 hrs 53 mins
+Total Time: 1,436 hrs 5 mins
 
-R                          592 hrs 37 mins ██████████▒░░░░░░░░░░░░░░   41.30 %
-Other                      409 hrs 49 mins ███████░░░░░░░░░░░░░░░░░░   28.56 %
+R                          592 hrs 37 mins ██████████▒░░░░░░░░░░░░░░   41.27 %
+Other                      410 hrs 15 mins ███████░░░░░░░░░░░░░░░░░░   28.57 %
 Docker                     64 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-YAML                       63 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Markdown                   54 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+YAML                       64 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Markdown                   54 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 RMarkdown                  48 hrs 28 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 Text                       45 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 JavaScript                 21 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 Python                     19 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 HTML                       15 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 Bash                       15 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-CSS                        14 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+CSS                        14 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 CSV                        11 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Assembly                   5 hrs 27 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 GDScript3                  4 hrs 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
