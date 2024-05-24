@@ -39,21 +39,21 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 21 May 2024
+From: 28 February 2022 - To: 22 May 2024
 
-Total Time: 3,681 hrs 54 mins
+Total Time: 3,700 hrs 42 mins
 
-R                          1,406 hrs 29 mins█████████▓░░░░░░░░░░░░░░░   38.20 %
-Other                      1,068 hrs 43 mins███████▒░░░░░░░░░░░░░░░░░   29.03 %
-Docker                     229 hrs 26 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-YAML                       170 hrs 15 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Markdown                   166 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Text                       140 hrs 16 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-RMarkdown                  84 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Bash                       64 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-JavaScript                 50 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Python                     49 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-HTML                       37 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+R                          1,406 hrs 43 mins█████████▓░░░░░░░░░░░░░░░   38.01 %
+Other                      1,085 hrs 10 mins███████▒░░░░░░░░░░░░░░░░░   29.32 %
+Docker                     229 hrs 26 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+YAML                       170 hrs 18 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Markdown                   166 hrs 55 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Text                       140 hrs 57 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+RMarkdown                  85 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Bash                       64 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+JavaScript                 50 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python                     49 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+HTML                       37 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 CSV                        29 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 CSS                        29 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Objective-C                15 hrs 31 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
