@@ -39,20 +39,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 13 June 2024
+From: 28 February 2022 - To: 15 June 2024
 
-Total Time: 3,855 hrs 12 mins
+Total Time: 3,861 hrs 34 mins
 
-R                          1,425 hrs 37 mins█████████▒░░░░░░░░░░░░░░░   36.98 %
-Other                      1,157 hrs 34 mins███████▓░░░░░░░░░░░░░░░░░   30.03 %
-Docker                     234 hrs 53 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Markdown                   183 hrs 15 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-YAML                       176 hrs 45 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Text                       143 hrs 5 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-RMarkdown                  86 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-HTML                       67 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash                       65 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JavaScript                 50 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+R                          1,428 hrs 24 mins█████████▒░░░░░░░░░░░░░░░   36.99 %
+Other                      1,160 hrs 22 mins███████▓░░░░░░░░░░░░░░░░░   30.05 %
+Docker                     234 hrs 53 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Markdown                   183 hrs 17 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+YAML                       176 hrs 56 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Text                       143 hrs 36 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+RMarkdown                  86 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+HTML                       67 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Bash                       65 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JavaScript                 50 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 Python                     49 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 CSV                        30 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 CSS                        29 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
