@@ -39,22 +39,22 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 26 June 2024
+From: 28 February 2022 - To: 27 June 2024
 
-Total Time: 3,905 hrs 29 mins
+Total Time: 3,910 hrs 27 mins
 
-R                          1,437 hrs 39 mins█████████▒░░░░░░░░░░░░░░░   36.81 %
-Other                      1,182 hrs 57 mins███████▓░░░░░░░░░░░░░░░░░   30.29 %
-Docker                     236 hrs 25 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Markdown                   184 hrs 4 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-YAML                       182 hrs 57 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Text                       143 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-RMarkdown                  88 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+R                          1,437 hrs 57 mins█████████▒░░░░░░░░░░░░░░░   36.77 %
+Other                      1,185 hrs 32 mins███████▓░░░░░░░░░░░░░░░░░   30.32 %
+Docker                     237 hrs 33 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Markdown                   184 hrs 26 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+YAML                       183 hrs 3 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Text                       144 hrs 23 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+RMarkdown                  88 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 HTML                       67 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Bash                       65 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Bash                       65 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 JavaScript                 50 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 Python                     49 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-CSV                        30 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+CSV                        30 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 CSS                        29 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Objective-C                15 hrs 31 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Ezhil                      14 hrs 24 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
