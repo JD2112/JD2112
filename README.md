@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 31 August 2024
+From: 28 February 2022 - To: 01 September 2024
 
-Total Time: 4,166 hrs 7 mins
+Total Time: 4,166 hrs 21 mins
 
-R                          1,456 hrs       ████████▓░░░░░░░░░░░░░░░░   34.95 %
-Other                      1,335 hrs 26 mins████████░░░░░░░░░░░░░░░░░   32.05 %
+R                          1,456 hrs 10 mins████████▓░░░░░░░░░░░░░░░░   34.95 %
+Other                      1,335 hrs 30 mins████████░░░░░░░░░░░░░░░░░   32.05 %
 Docker                     259 hrs 40 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 YAML                       214 hrs 4 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 Markdown                   194 hrs 42 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
