@@ -39,26 +39,26 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 23 November 2024
+From: 28 February 2022 - To: 24 November 2024
 
-Total Time: 4,738 hrs 48 mins
+Total Time: 4,742 hrs 9 mins
 
-Other                      1,578 hrs 58 mins████████▒░░░░░░░░░░░░░░░░   33.32 %
-R                          1,540 hrs 49 mins████████░░░░░░░░░░░░░░░░░   32.51 %
+Other                      1,579 hrs 59 mins████████▒░░░░░░░░░░░░░░░░   33.32 %
+R                          1,540 hrs 49 mins████████░░░░░░░░░░░░░░░░░   32.49 %
 Docker                     272 hrs 31 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-YAML                       240 hrs 30 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Markdown                   232 hrs 34 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+YAML                       240 hrs 30 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Markdown                   234 hrs 3 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 Text                       165 hrs 57 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 HTML                       108 hrs 21 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 RMarkdown                  104 hrs 49 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 Bash                       101 hrs 19 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 Python                     53 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 JavaScript                 52 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-CSV                        42 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-CSS                        36 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+CSV                        43 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+CSS                        36 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 TeX                        25 hrs 38 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 Objective-C                15 hrs 31 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Git Config                 14 hrs 52 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Git Config                 14 hrs 55 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Ezhil                      14 hrs 24 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 TSQL                       14 hrs 19 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 Assembly                   13 hrs 19 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
