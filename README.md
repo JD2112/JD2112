@@ -39,30 +39,30 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 14 January 2025
+From: 28 February 2022 - To: 15 January 2025
 
-Total Time: 4,909 hrs 50 mins
+Total Time: 4,917 hrs 10 mins
 
-Other                      1,650 hrs 24 mins████████▒░░░░░░░░░░░░░░░░   33.61 %
-R                          1,579 hrs 39 mins████████░░░░░░░░░░░░░░░░░   32.17 %
-Docker                     276 hrs 40 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Markdown                   267 hrs 50 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-YAML                       242 hrs 59 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Text                       178 hrs 5 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Other                      1,653 hrs 15 mins████████▒░░░░░░░░░░░░░░░░   33.62 %
+R                          1,580 hrs 6 mins████████░░░░░░░░░░░░░░░░░   32.13 %
+Docker                     277 hrs 8 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Markdown                   268 hrs 4 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+YAML                       243 hrs 11 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Text                       178 hrs 5 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 HTML                       110 hrs 8 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-RMarkdown                  104 hrs 50 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+RMarkdown                  104 hrs 50 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 Bash                       102 hrs 18 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 Python                     54 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JavaScript                 52 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-CSV                        43 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JavaScript                 52 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+CSV                        43 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 CSS                        36 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 TeX                        25 hrs 39 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Git Config                 16 hrs 4 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+PHP                        15 hrs 46 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Objective-C                15 hrs 31 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Ezhil                      14 hrs 24 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 TSQL                       14 hrs 19 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Assembly                   13 hrs 19 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-GDScript3                  12 hrs 54 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
