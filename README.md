@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 23 January 2025
+From: 28 February 2022 - To: 24 January 2025
 
-Total Time: 4,986 hrs 42 mins
+Total Time: 4,996 hrs 12 mins
 
-Other                      1,687 hrs 26 mins████████▒░░░░░░░░░░░░░░░░   33.84 %
-R                          1,591 hrs 53 mins████████░░░░░░░░░░░░░░░░░   31.92 %
-Docker                     281 hrs 59 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Markdown                   270 hrs 16 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-YAML                       244 hrs 6 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Other                      1,693 hrs 37 mins████████▒░░░░░░░░░░░░░░░░   33.90 %
+R                          1,594 hrs 47 mins████████░░░░░░░░░░░░░░░░░   31.92 %
+Docker                     281 hrs 59 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Markdown                   270 hrs 41 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+YAML                       244 hrs 6 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 Text                       178 hrs 8 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 HTML                       110 hrs 15 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 RMarkdown                  104 hrs 50 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
