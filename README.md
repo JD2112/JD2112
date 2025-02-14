@@ -14,6 +14,24 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JD2112)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://github.com/JD2112/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=JD2112&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/JD2112/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD2112&layout=pie&hide_progress=true&langs_count=10&card_width=320" />
+</a>
+<a href="https://github.com/JD2112/convoychat">
+  <img height=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JD2112&theme=vue-dark&hide_border=true" />
+</a>
+
+[![JD2112's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JD21&layout=compact&hide_progress=true&langs_count=20)](https://github.com/JD2112/github-readme-stats)
+
+<div style="text-align:center;">
+    
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=39db8abd2ac2a0d394ca357210a3f0a5&show_owner=true)](https://gist.github.com/JD2112/39db8abd2ac2a0d394ca357210a3f0a5.js)
+
+</div>
+
 <!--
 **JD2112/JD2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,15 +47,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![JD2112's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 -->
-![JD2112's Stats](https://github-readme-stats.vercel.app/api?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![JD2112's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JD2112&theme=vue-dark&hide_border=true)
+<!--![JD2112's Stats](https://github-readme-stats.vercel.app/api?username=JD2112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
+
 
 
 
 
 
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 From: 28 February 2022 - To: 12 February 2025
 
@@ -64,7 +82,7 @@ Ezhil                      14 hrs 24 mins  ░░░░░░░░░░░░�
 TSQL                       14 hrs 19 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Assembly                   13 hrs 19 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 <div align="center">
