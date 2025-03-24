@@ -57,19 +57,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 21 March 2025
+From: 28 February 2022 - To: 22 March 2025
 
-Total Time: 5,497 hrs 18 mins
+Total Time: 5,500 hrs 8 mins
 
-Other                      1,961 hrs 5 mins█████████░░░░░░░░░░░░░░░░   35.67 %
-R                          1,655 hrs 22 mins███████▓░░░░░░░░░░░░░░░░░   30.11 %
-Markdown                   298 hrs 55 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Other                      1,961 hrs 28 mins█████████░░░░░░░░░░░░░░░░   35.66 %
+R                          1,655 hrs 22 mins███████▓░░░░░░░░░░░░░░░░░   30.10 %
+Markdown                   298 hrs 56 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
 Docker                     287 hrs 23 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 YAML                       258 hrs 3 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 Text                       184 hrs 7 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+HTML                       116 hrs 28 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 Bash                       114 hrs 49 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-HTML                       114 hrs 2 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-RMarkdown                  105 hrs 18 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+RMarkdown                  105 hrs 18 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 PHP                        105 hrs 6 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 CSV                        60 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 JavaScript                 56 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
