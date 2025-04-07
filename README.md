@@ -57,23 +57,23 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2022 - To: 04 April 2025
+From: 28 February 2022 - To: 05 April 2025
 
-Total Time: 5,629 hrs 33 mins
+Total Time: 5,632 hrs 25 mins
 
-Other                      2,023 hrs 29 mins█████████░░░░░░░░░░░░░░░░   35.94 %
-R                          1,666 hrs 28 mins███████▒░░░░░░░░░░░░░░░░░   29.60 %
-Markdown                   312 hrs 11 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Docker                     295 hrs 52 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Other                      2,023 hrs 34 mins█████████░░░░░░░░░░░░░░░░   35.93 %
+R                          1,666 hrs 28 mins███████▒░░░░░░░░░░░░░░░░░   29.59 %
+Markdown                   312 hrs 11 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Docker                     296 hrs 45 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 YAML                       262 hrs 13 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Text                       184 hrs 14 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-RMarkdown                  118 hrs 16 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-HTML                       117 hrs 41 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Text                       184 hrs 18 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+RMarkdown                  119 hrs 50 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+HTML                       117 hrs 43 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 Bash                       114 hrs 56 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 PHP                        108 hrs 20 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 CSV                        66 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 JavaScript                 60 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Python                     56 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python                     56 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 CSS                        40 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 TeX                        25 hrs 39 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Git Config                 18 hrs 28 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
