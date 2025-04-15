@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gleich/profile_stack@master
+      - uses: gleich/profile_stack@v2.1.0  # Update with a valid release version or tag
