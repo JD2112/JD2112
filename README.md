@@ -15,8 +15,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JD2112)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/JD2112/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=JD2112&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JD2112&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
+<a href="https://github.com/JD2112/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD2112&layout=compact&theme=radical" />
+</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JD2112&theme=radical" />
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=JD2112&theme=radical" />
+
 <a href="https://github.com/JD2112/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD2112&layout=pie&hide_progress=true&langs_count=10&card_width=320" />
 </a>
