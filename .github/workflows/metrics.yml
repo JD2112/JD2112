@@ -22,7 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
           config_order: introduction, base.header, isocalendar, languages, habits, followup, lines, achievements
-          queries_cache: yes
+          config_queries_cache: yes
           
           # Appearance
           config_display: large
@@ -38,7 +38,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_habits_trim: yes
-          plugin_habits_limit: 5
           
           # Introduction plugin
           plugin_introduction: yes
@@ -61,13 +60,14 @@ jobs:
           # Lines plugin
           plugin_lines: yes
           
+          # Achievements plugin
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: no
           plugin_achievements_limit: 10
           
           # Themes
-          theme: classic
+          config_theme: radical
           
           # Stable config refinements
           committer_token: ${{ secrets.GITHUB_TOKEN }}
