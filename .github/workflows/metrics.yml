@@ -21,7 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
-          config_order: introduction, base.header, isocalendar, languages, habits, followup, lines, achievements
+          config_order: introduction, base.header, isocalendar, languages, followup, stars, lines
           config_queries_cache: yes
           
           # Appearance
@@ -32,12 +32,16 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 100
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_habits_trim: yes
+          
+          # Stars plugin (Replacement for broken plugins)
+          plugin_stars: yes
+          plugin_stars_limit: 4
           
           # Introduction plugin
           plugin_introduction: yes
@@ -61,7 +65,7 @@ jobs:
           plugin_lines: yes
           
           # Achievements plugin
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_secrets: no
           plugin_achievements_limit: 8
